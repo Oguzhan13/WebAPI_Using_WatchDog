@@ -1,8 +1,9 @@
-https://localhost:7149/swagger/index.html adresinden execute ettiðimizde
+https://localhost:7149/swagger/index.html adresinden execute ettiðimizde (localhost deðeri deðiþkendir)
 https://localhost:7149/watchdog adresinde login iþlemini yapmadan görüntüleme saðlayamýyoruz
 
 WatchDog.NET paketini NuGet üzerinden projemize kuruyoruz
 
+Aþaðýdaki sýralama sadece Program.cs üzerinde daha önce yapýlan kýsým, katmanlara ayrýþtýrýldý proje!
 /*
 Program.cs dosyamýza:
 //Service kýsmý için aþaðýdaki kodlarý yazýyoruz; otomatik temizleme ve Veritabaný baðlantýsý için yazýyoruz

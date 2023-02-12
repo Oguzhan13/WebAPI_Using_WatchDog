@@ -1,4 +1,4 @@
-namespace WebAPI_Using_WatchDog.Controllers
+namespace WatchDogAPI.Controllers
 {
     [ApiController]
     [Route("[controller]")]
